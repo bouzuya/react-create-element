@@ -1,0 +1,32 @@
+{
+  "name": "react-create-element",
+  "description": "React.createElement",
+  "version": "0.1.0",
+  "author": {
+    "name": "bouzuya",
+    "email": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "bugs": {
+    "url": "https://github.com/bouzuya/react-create-element/issues"
+  },
+  "devDependencies": {
+    "typescript": "1.8.10"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/bouzuya/react-create-lement#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bouzuya/react-create-element.git"
+  },
+  "scripts": {
+    "clean": "rm index.js",
+    "prepublish": "tsc"
+  },
+  "typings": "index.d.ts"
+}
